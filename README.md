@@ -20,9 +20,16 @@ The user can click a "Listen" button to initiate the text-to-speech conversion.
 
 When the user clicks the "Listen" button, the application uses the browser's built-in SpeechSynthesisUtterance API to convert the entered text to speech in the selected language.
 
-![41C0C7B2-DBBF-49A6-9ED2-C5E5F2314686_1_102_o](https://github.com/user-attachments/assets/510aa061-677f-425a-a330-f061caea57f4)
-![41C0C7B2-DBBF-49A6-9ED2-C5E5F2314686_1_102_o](https://github.com/user-attachments/assets/0883c66f-5f02-44ef-887d-dfacddb965bb)
 
+
+
+https://github.com/user-attachments/assets/d0ccc5aa-2a14-4009-9ae7-1ee335c7d8a3
+
+
+
+
+
+https://github.com/user-attachments/assets/f22f8fb5-b988-488a-8a33-9b3e0c427d10
 
 
 This application demonstrates the use of HTML, CSS, and JavaScript to create a simple and visually appealing web-based tool for text-to-speech conversion. The addition of the butterfly-themed background and name adds a touch of whimsy and personality to the application. the link to this page can be found here and u can try it yourself! :
