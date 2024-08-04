@@ -21,6 +21,7 @@ The user can click a "Listen" button to initiate the text-to-speech conversion.
 When the user clicks the "Listen" button, the application uses the browser's built-in SpeechSynthesisUtterance API to convert the entered text to speech in the selected language.
 
 ![41C0C7B2-DBBF-49A6-9ED2-C5E5F2314686_1_102_o](https://github.com/user-attachments/assets/510aa061-677f-425a-a330-f061caea57f4)
+![41C0C7B2-DBBF-49A6-9ED2-C5E5F2314686_1_102_o](https://github.com/user-attachments/assets/0883c66f-5f02-44ef-887d-dfacddb965bb)
 
 
 
